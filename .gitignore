@@ -1,0 +1,8 @@
+# gitignore
+*.pyc
+__pycache__/
+*.egg-info/
+
+maps/
+train_dir/
+wandb/
