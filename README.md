@@ -2,7 +2,8 @@
 This repository contains the source code for the paper: [_**Reinforcement Learning for Active Perception in Autonomous Navigation**_](https://arxiv.org/abs/2602.01266).
 
 A video demonstrating the work is available [here](https://youtu.be/qC_XuFj7prY?si=dYv2pYWLr0_2Zml0).
-[![maxresdefault](https://github.com/user-attachments/assets/091b3065-7be8-4595-9576-32161ca324fa)](https://youtu.be/qC_XuFj7prY?si=dYv2pYWLr0_2Zml0)
+
+[<img width="1280" height="720" alt="image_with_play_button" src="https://github.com/user-attachments/assets/d984e513-e1b6-42d9-86df-e008a153a2d7" />](https://youtu.be/qC_XuFj7prY?si=dYv2pYWLr0_2Zml0)
 
 
 ## 🛠️ Installation
