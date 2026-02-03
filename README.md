@@ -1,5 +1,5 @@
 # active-perception-RL-navigation
-This repository contains the source code for the paper: [_**Reinforcement Learning for Active Perception in Autonomous Navigation**_](-).
+This repository contains the source code for the paper: [_**Reinforcement Learning for Active Perception in Autonomous Navigation**_](https://arxiv.org/abs/2602.01266).
 
 A video demonstrating the work is available [here](https://www.youtube.com/@autonomousrobotslab).
 
