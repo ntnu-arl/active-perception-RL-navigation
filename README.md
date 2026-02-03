@@ -48,7 +48,7 @@ A video demonstrating the work is available [here](https://www.youtube.com/@auto
 ## 🚀 Running the Examples
 
 The standalone examples, along with a pre-trained RL policy, are available in the [`examples`](./examples) directory.  
-The ready-to-use policy (used in the work described in [_**Reinforcement Learning for Active Perception in Autonomous Navigation**_](-)) can be found under: `examples/pre-trained_network`. These examples illustrate policy inference in a corridor-like environment under different levels of complexity, specifically with 10, 20, and 30 obstacles.
+The ready-to-use policy (used in the work described in [_**Reinforcement Learning for Active Perception in Autonomous Navigation**_](https://arxiv.org/abs/2602.01266)) can be found under: `examples/pre-trained_network`. These examples illustrate policy inference in a corridor-like environment under different levels of complexity, specifically with 10, 20, and 30 obstacles.
 
 ### 10-Obstacle Example
 
@@ -152,7 +152,7 @@ To load a trained checkpoint and perform inference only (no training), follow th
 
 If you use or reference this work in your research, please cite the following paper:
 
-G. Malczyk, M. Kulkarni and K. Alexis, "Reinforcement Learning for Active Perception in Autonomous Navigation", 2025
+G. Malczyk, M. Kulkarni and K. Alexis, "Reinforcement Learning for Active Perception in Autonomous Navigation", 2026
 
 ```bibtex
 @article{malczyk2025reinforcement,
