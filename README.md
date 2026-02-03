@@ -158,7 +158,8 @@ G. Malczyk, M. Kulkarni and K. Alexis, "Reinforcement Learning for Active Percep
 @article{malczyk2025reinforcement,
   title={Reinforcement Learning for Active Perception in Autonomous Navigation},
   author={Malczyk, Grzegorz and Kulkarni, Mihir and Alexis, Kostas},
-  year={2025},
+  journal={arXiv preprint arXiv:2602.01266},
+  year={2026}
 }
 ```
 
