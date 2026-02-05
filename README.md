@@ -154,7 +154,7 @@ To load a trained checkpoint and perform inference only (no training), follow th
 
 If you use or reference this work in your research, please cite the following paper:
 
-G. Malczyk, M. Kulkarni and K. Alexis, "Reinforcement Learning for Active Perception in Autonomous Navigation", 2026
+G. Malczyk, M. Kulkarni and K. Alexis, "Reinforcement Learning for Active Perception in Autonomous Navigation",  	Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026
 
 ```bibtex
 @article{malczyk2025reinforcement,
